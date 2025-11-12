@@ -1,0 +1,6 @@
+{
+  "name": "fitness-contract",
+  "version": "1.0.0",
+  "main": "fitness-contract.js",
+  "license": "Apache-2.0"
+}

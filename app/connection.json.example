@@ -1,0 +1,4 @@
+{
+  "note": "This file is a placeholder. After you start the test-network, copy the connection profile generated there (for Org1) into this file and name it connection.json.",
+  "instructions": "Replace this file with the connection profile from fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/connection-org1.json"
+}
